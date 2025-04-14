@@ -193,7 +193,7 @@ with st.sidebar:
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by Akshay Shekade 🤖 | Law-focused NLP Chatbot using Ollama")
+st.markdown("Developed by Kalyani Wagh 🤖 | Law-focused NLP Chatbot using Ollama")
 
 # Add helpful instructions
 with st.sidebar:
